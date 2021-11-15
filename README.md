@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wageraldine
 - 👀 I’m interested in Artificial Intelegence
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- 📫 How to reach me geral.ghoul@gmail.com
+- 📫 How to reach me gerall.ghoul@gmail.com
 
 <!---
 wageraldine/wageraldine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
